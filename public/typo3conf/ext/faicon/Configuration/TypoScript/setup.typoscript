@@ -1,0 +1,11 @@
+plugin.tx_faicon{
+    settings{
+        jsonfile = {$plugin.tx_faicon.settings.jsonfile}
+    }
+}
+
+page{
+    includeCSS{
+        tx_faicon = {$plugin.tx_faicon.settings.cssfile}
+    }
+}

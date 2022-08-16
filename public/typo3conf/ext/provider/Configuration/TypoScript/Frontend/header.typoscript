@@ -1,0 +1,29 @@
+
+
+page {
+
+
+    includeCSS {
+        #breakpoints = EXT:provider/Resources/Public/Scss/breakpoints.scss
+        #breakpoints.outputdir = EXT:provider/Resources/Public/Css/ 
+
+        breakpoints = EXT:provider/Resources/Public/Css/breakpoints.css
+        
+        #bootstraps = EXT:provider/Resources/Public/Scss/bootstrap/scss/bootstrap.scss
+        #bootstraps.outputdir = EXT:provider/Resources/Public/Css/ 
+
+        bootstrap = EXT:provider/Resources/Public/Css/bootstrap.min.css
+
+        fonts_css = EXT:provider/Resources/Public/Css/fonts.css
+        
+        #provider_layout = EXT:provider/Resources/Public/Scss/layout.scss
+        #provider_layout.outputdir = EXT:provider/Resources/Public/Css/
+
+        provider_layout = EXT:provider/Resources/Public/Css/layout.min.css
+    }
+
+
+    includeJSFooter {
+        provider_scripts = EXT:provider/Resources/Public/JavaScript/Dist/scripts.js
+    }
+}

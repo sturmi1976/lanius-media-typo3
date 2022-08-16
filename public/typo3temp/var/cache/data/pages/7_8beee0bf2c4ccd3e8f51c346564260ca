@@ -1,0 +1,752 @@
+a:8:{s:10:"identifier";s:34:"7_8beee0bf2c4ccd3e8f51c346564260ca";s:7:"page_id";i:7;s:7:"content";s:8027:"<!DOCTYPE html>
+<html lang="de-de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	Lanius Media - Agentur für Digitale Medien
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2022 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/typo3conf/ext/provider/Resources/Public/Icons/favicon.ico" type="image/vnd.microsoft.icon">
+<!-- ###TITLEac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###METAac2d854415c7e1c05ca0de07fcc63218### -->
+
+<!-- ###CSS_LIBSac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###CSS_INCLUDEac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###CSS_INLINEac2d854415c7e1c05ca0de07fcc63218### -->
+
+<!-- ###JS_LIBSac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###JS_INCLUDEac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###JS_INLINEac2d854415c7e1c05ca0de07fcc63218### -->
+
+<!-- ###HEADERDATAac2d854415c7e1c05ca0de07fcc63218### -->
+</head>
+<body>
+
+    <header class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    
+<a href="/">
+    <img srcset="{f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 768)} 768w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 990)} 990w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1200)} 1200w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1440)} 1440w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1900)} 1900w" sizes="(min-width: 1200px) 50vw, 100vw" class="image-embed-item img-fluid" alt="Agentur - Logo" loading="lazy" src="/typo3temp/assets/_processed_/e/7/csm_logo-typo3-lanius_f267f02aec.png" width="300" height="100" />
+</a>
+                </div>
+                <div class="col-md-9">
+                    <nav class="main-navigation">
+    <ul>
+        
+            
+            <li class="level1 ">
+                <a href="/" target="" title="Startseite">
+                    Startseite
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/typo3-entwicklung" target="" title="Typo3">
+                    Typo3
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/shopware" target="" title="Shopware">
+                    Shopware
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/magento" target="" title="Magento">
+                    Magento
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/kontakt" target="" title="Kontakt">
+                    Kontakt
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 active">
+                <a href="/forum" target="" title="Forum">
+                    Forum
+                </a>
+                
+            </li>
+        
+    </ul>
+</nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <main class="main-content">
+                    
+    
+
+            <div id="c6" class="frame frame-default frame-type-ce_columns2 frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+    
+
+
+
+
+
+
+
+
+
+<div class="ce-col col-md-9">
+    
+        
+    
+
+            <div id="c4" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	<div class="tx-forum">
+		
+ 
+    <div class='tx-forum-forum'>  
+
+    <h2 class="tx_forum_threadList-headline">Forum: Forum 1.1</h2>
+    
+    <div class="tx-forum-buttons">
+        <div class="tx-forum-backlink">
+            <a href="/forum"><i class="fa-solid fa-circle-left"></i> Zurück zur Forenübersicht</a>
+        </div>
+        <div class="tx-forum-newThread">
+            
+                <a href="/forum?tx_forum_forum%5Baction%5D=new&amp;tx_forum_forum%5Bcontroller%5D=Thread&amp;cHash=787365bd7722c97f2f025ae5f5523307">
+                    Neuer Beitrag <i class="fa-solid fa-file-circle-plus"></i>
+                </a>
+            
+        </div>
+    </div>
+    
+    
+     <div class="tx-forum-threads">   
+    
+        <div class="tx-forum-thread">
+            <div class="tx-forum-thread-title">
+                <a href="/forum/forum-11/test-beitrag">Test Beitrag</a>
+            </div>
+            <div class="tx-forum-thread-user">User</div>
+            <div class="tx-forum-thread-datetime">15.08.2022, 09:32:57</div>
+        </div>
+    
+    </div>
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    
+
+    
+
+	</div>
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+
+<div class="ce-col col-md-3">
+    
+        
+    
+
+            <div id="c5" class="frame frame-default frame-type-list frame-layout-0 frame-space-after-medium">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        <!--INT_SCRIPT.a5c7d9abc0ef4cc157e051fccadd7e15-->
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+</div>
+
+
+    
+    
+</div>
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+ 
+                </main>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="footer-navigation">
+    <ul>
+             
+            <li class="footerlink ">
+                <a href="/impressum" target="" title="Impressum">
+                    Impressum
+                </a>
+            </li>
+             
+            <li class="footerlink ">
+                <a href="/datenschutz" target="" title="Datenschutz">
+                    Datenschutz
+                </a>
+            </li>
+             
+            <li class="footerlink ">
+                <a href="/kontakt-1" target="" title="Kontakt">
+                    Kontakt
+                </a>
+            </li>
+        
+    </ul>
+</nav>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="copyright">
+                        <p>Copyright &copy; 2022 by Andre Lanius, alle Rechte vorbehalten!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+<!-- ###JS_LIBS_FOOTERac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###JS_INCLUDE_FOOTERac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###JS_INLINE_FOOTERac2d854415c7e1c05ca0de07fcc63218### -->
+<!-- ###FOOTERDATAac2d854415c7e1c05ca0de07fcc63218### -->
+</body>
+</html>";s:10:"cache_data";a:4:{s:6:"config";a:33:{s:19:"pageTitleProviders.";a:3:{s:7:"record.";a:1:{s:8:"provider";s:48:"TYPO3\CMS\Core\PageTitle\RecordPageTitleProvider";}s:4:"seo.";a:2:{s:8:"provider";s:49:"TYPO3\CMS\Seo\PageTitle\SeoTitlePageTitleProvider";s:6:"before";s:6:"record";}s:9:"myRecord.";a:2:{s:8:"provider";s:31:"AL\Forum\Seo\ForumTitleProvider";s:6:"before";s:5:"pages";}}s:12:"index_enable";s:1:"1";s:15:"index_externals";s:1:"1";s:14:"index_metatags";s:1:"1";s:12:"absRefPrefix";s:4:"auto";s:8:"no_cache";s:1:"0";s:14:"uniqueLinkVars";s:1:"1";s:14:"pageTitleFirst";s:1:"1";s:8:"linkVars";s:1:"L";s:18:"prefixLocalAnchors";s:3:"all";s:13:"renderCharset";s:5:"utf-8";s:11:"metaCharset";s:5:"utf-8";s:7:"doctype";s:5:"html5";s:15:"removeDefaultJS";s:1:"0";s:20:"inlineStyle2TempFile";s:1:"1";s:8:"admPanel";s:1:"1";s:5:"debug";s:1:"0";s:12:"cache_period";s:5:"86400";s:16:"sendCacheHeaders";s:1:"1";s:9:"intTarget";s:0:"";s:9:"extTarget";s:0:"";s:20:"disablePrefixComment";s:1:"1";s:13:"headerComment";s:43:"Lanius Media - Agentur für Digitale Medien";s:9:"noScaleUp";s:1:"1";s:10:"compressJs";s:1:"0";s:11:"compressCss";s:1:"0";s:13:"concatenateJs";s:1:"0";s:14:"concatenateCss";s:1:"0";s:11:"tx_extbase.";a:3:{s:4:"mvc.";a:1:{s:48:"throwPageNotFoundExceptionIfActionCantBeResolved";s:1:"0";}s:12:"persistence.";a:2:{s:28:"enableAutomaticCacheClearing";s:1:"1";s:20:"updateReferenceIndex";s:1:"0";}s:9:"features.";a:2:{s:20:"skipDefaultArguments";s:1:"0";s:25:"ignoreAllEnableFieldsInBe";s:1:"0";}}s:29:"contentObjectExceptionHandler";s:1:"0";s:12:"xhtmlDoctype";s:5:"html5";s:14:"pageTitleCache";a:1:{s:31:"AL\Forum\Seo\ForumTitleProvider";s:21:"Forum 1.1 TYPO3 Forum";}s:9:"pageTitle";s:21:"Forum 1.1 TYPO3 Forum";}s:8:"rootLine";a:2:{i:0;a:22:{s:3:"pid";i:0;s:3:"uid";i:1;s:9:"t3ver_oid";i:0;s:10:"t3ver_wsid";i:0;s:11:"t3ver_state";i:0;s:5:"title";s:4:"Home";s:9:"nav_title";s:0:"";s:5:"media";s:0:"";s:6:"layout";i:0;s:6:"hidden";i:0;s:9:"starttime";i:0;s:7:"endtime";i:0;s:8:"fe_group";s:0:"";s:16:"extendToSubpages";i:0;s:7:"doktype";i:1;s:8:"TSconfig";s:0:"";s:17:"tsconfig_includes";s:53:"EXT:provider/Configuration/TsConfig/Page/All.tsconfig";s:11:"is_siteroot";i:1;s:9:"mount_pid";i:0;s:12:"mount_pid_ol";i:0;s:13:"fe_login_mode";i:0;s:25:"backend_layout_next_level";s:15:"pagets__default";}i:1;a:22:{s:3:"pid";i:1;s:3:"uid";i:7;s:9:"t3ver_oid";i:0;s:10:"t3ver_wsid";i:0;s:11:"t3ver_state";i:0;s:5:"title";s:5:"Forum";s:9:"nav_title";s:0:"";s:5:"media";s:0:"";s:6:"layout";i:0;s:6:"hidden";i:0;s:9:"starttime";i:0;s:7:"endtime";i:0;s:8:"fe_group";s:0:"";s:16:"extendToSubpages";i:0;s:7:"doktype";i:1;s:8:"TSconfig";N;s:17:"tsconfig_includes";N;s:11:"is_siteroot";i:0;s:9:"mount_pid";i:0;s:12:"mount_pid_ol";i:0;s:13:"fe_login_mode";i:0;s:25:"backend_layout_next_level";s:0:"";}}s:12:"INTincScript";a:1:{s:43:"INT_SCRIPT.a5c7d9abc0ef4cc157e051fccadd7e15";a:3:{s:4:"conf";a:3:{s:8:"userFunc";s:37:"TYPO3\CMS\Extbase\Core\Bootstrap->run";s:13:"extensionName";s:5:"Forum";s:10:"pluginName";s:5:"Login";}s:4:"cObj";s:8619:"O:54:"TYPO3\CMS\Frontend\ContentObject\ContentObjectRenderer":27:{s:5:"align";a:3:{i:0;s:6:"center";i:1;s:5:"right";i:2;s:4:"left";}s:12:"stdWrapOrder";a:148:{s:17:"stdWrapPreProcess";s:4:"hook";s:9:"cacheRead";s:4:"hook";s:19:"setContentToCurrent";s:7:"boolean";s:20:"setContentToCurrent.";s:5:"array";s:16:"addPageCacheTags";s:6:"string";s:17:"addPageCacheTags.";s:5:"array";s:10:"setCurrent";s:6:"string";s:11:"setCurrent.";s:5:"array";s:5:"lang.";s:5:"array";s:4:"data";s:7:"getText";s:5:"data.";s:5:"array";s:5:"field";s:9:"fieldName";s:6:"field.";s:5:"array";s:7:"current";s:7:"boolean";s:8:"current.";s:5:"array";s:7:"cObject";s:7:"cObject";s:8:"cObject.";s:5:"array";s:8:"numRows.";s:5:"array";s:11:"preUserFunc";s:12:"functionName";s:15:"stdWrapOverride";s:4:"hook";s:8:"override";s:6:"string";s:9:"override.";s:5:"array";s:17:"preIfEmptyListNum";s:7:"listNum";s:18:"preIfEmptyListNum.";s:5:"array";s:6:"ifNull";s:6:"string";s:7:"ifNull.";s:5:"array";s:7:"ifEmpty";s:6:"string";s:8:"ifEmpty.";s:5:"array";s:7:"ifBlank";s:6:"string";s:8:"ifBlank.";s:5:"array";s:7:"listNum";s:7:"listNum";s:8:"listNum.";s:5:"array";s:4:"trim";s:7:"boolean";s:5:"trim.";s:5:"array";s:7:"strPad.";s:5:"array";s:7:"stdWrap";s:7:"stdWrap";s:8:"stdWrap.";s:5:"array";s:14:"stdWrapProcess";s:4:"hook";s:8:"required";s:7:"boolean";s:9:"required.";s:5:"array";s:3:"if.";s:5:"array";s:13:"fieldRequired";s:9:"fieldName";s:14:"fieldRequired.";s:5:"array";s:6:"csConv";s:6:"string";s:7:"csConv.";s:5:"array";s:9:"parseFunc";s:10:"objectpath";s:10:"parseFunc.";s:5:"array";s:10:"HTMLparser";s:7:"boolean";s:11:"HTMLparser.";s:5:"array";s:6:"split.";s:5:"array";s:12:"replacement.";s:5:"array";s:10:"prioriCalc";s:7:"boolean";s:11:"prioriCalc.";s:5:"array";s:4:"char";s:7:"integer";s:5:"char.";s:5:"array";s:6:"intval";s:7:"boolean";s:7:"intval.";s:5:"array";s:4:"hash";s:6:"string";s:5:"hash.";s:5:"array";s:5:"round";s:7:"boolean";s:6:"round.";s:5:"array";s:13:"numberFormat.";s:5:"array";s:10:"expandList";s:7:"boolean";s:11:"expandList.";s:5:"array";s:4:"date";s:8:"dateconf";s:5:"date.";s:5:"array";s:9:"strtotime";s:13:"strtotimeconf";s:10:"strtotime.";s:5:"array";s:8:"strftime";s:12:"strftimeconf";s:9:"strftime.";s:5:"array";s:3:"age";s:7:"boolean";s:4:"age.";s:5:"array";s:4:"case";s:4:"case";s:5:"case.";s:5:"array";s:5:"bytes";s:7:"boolean";s:6:"bytes.";s:5:"array";s:9:"substring";s:10:"parameters";s:10:"substring.";s:5:"array";s:8:"cropHTML";s:4:"crop";s:9:"cropHTML.";s:5:"array";s:9:"stripHtml";s:7:"boolean";s:10:"stripHtml.";s:5:"array";s:4:"crop";s:4:"crop";s:5:"crop.";s:5:"array";s:12:"rawUrlEncode";s:7:"boolean";s:13:"rawUrlEncode.";s:5:"array";s:16:"htmlSpecialChars";s:7:"boolean";s:17:"htmlSpecialChars.";s:5:"array";s:24:"encodeForJavaScriptValue";s:7:"boolean";s:25:"encodeForJavaScriptValue.";s:5:"array";s:11:"doubleBrTag";s:6:"string";s:12:"doubleBrTag.";s:5:"array";s:2:"br";s:7:"boolean";s:3:"br.";s:5:"array";s:5:"brTag";s:6:"string";s:6:"brTag.";s:5:"array";s:12:"encapsLines.";s:5:"array";s:8:"keywords";s:7:"boolean";s:9:"keywords.";s:5:"array";s:9:"innerWrap";s:4:"wrap";s:10:"innerWrap.";s:5:"array";s:10:"innerWrap2";s:4:"wrap";s:11:"innerWrap2.";s:5:"array";s:10:"preCObject";s:7:"cObject";s:11:"preCObject.";s:5:"array";s:11:"postCObject";s:7:"cObject";s:12:"postCObject.";s:5:"array";s:9:"wrapAlign";s:5:"align";s:10:"wrapAlign.";s:5:"array";s:9:"typolink.";s:5:"array";s:4:"wrap";s:4:"wrap";s:5:"wrap.";s:5:"array";s:10:"noTrimWrap";s:4:"wrap";s:11:"noTrimWrap.";s:5:"array";s:5:"wrap2";s:4:"wrap";s:6:"wrap2.";s:5:"array";s:8:"dataWrap";s:8:"dataWrap";s:9:"dataWrap.";s:5:"array";s:7:"prepend";s:7:"cObject";s:8:"prepend.";s:5:"array";s:6:"append";s:7:"cObject";s:7:"append.";s:5:"array";s:5:"wrap3";s:4:"wrap";s:6:"wrap3.";s:5:"array";s:14:"orderedStdWrap";s:7:"stdWrap";s:15:"orderedStdWrap.";s:5:"array";s:9:"outerWrap";s:4:"wrap";s:10:"outerWrap.";s:5:"array";s:10:"insertData";s:7:"boolean";s:11:"insertData.";s:5:"array";s:12:"postUserFunc";s:12:"functionName";s:15:"postUserFuncInt";s:12:"functionName";s:13:"prefixComment";s:6:"string";s:14:"prefixComment.";s:5:"array";s:9:"editIcons";s:6:"string";s:10:"editIcons.";s:5:"array";s:9:"editPanel";s:7:"boolean";s:10:"editPanel.";s:5:"array";s:12:"htmlSanitize";s:7:"boolean";s:13:"htmlSanitize.";s:5:"array";s:10:"cacheStore";s:4:"hook";s:18:"stdWrapPostProcess";s:4:"hook";s:5:"debug";s:7:"boolean";s:6:"debug.";s:5:"array";s:9:"debugFunc";s:7:"boolean";s:10:"debugFunc.";s:5:"array";s:9:"debugData";s:7:"boolean";s:10:"debugData.";s:5:"array";}s:24:" * contentObjectClassMap";a:17:{s:4:"TEXT";s:50:"TYPO3\CMS\Frontend\ContentObject\TextContentObject";s:4:"CASE";s:50:"TYPO3\CMS\Frontend\ContentObject\CaseContentObject";s:3:"COA";s:64:"TYPO3\CMS\Frontend\ContentObject\ContentObjectArrayContentObject";s:7:"COA_INT";s:72:"TYPO3\CMS\Frontend\ContentObject\ContentObjectArrayInternalContentObject";s:4:"USER";s:50:"TYPO3\CMS\Frontend\ContentObject\UserContentObject";s:8:"USER_INT";s:58:"TYPO3\CMS\Frontend\ContentObject\UserInternalContentObject";s:5:"FILES";s:51:"TYPO3\CMS\Frontend\ContentObject\FilesContentObject";s:5:"IMAGE";s:51:"TYPO3\CMS\Frontend\ContentObject\ImageContentObject";s:12:"IMG_RESOURCE";s:59:"TYPO3\CMS\Frontend\ContentObject\ImageResourceContentObject";s:7:"CONTENT";s:53:"TYPO3\CMS\Frontend\ContentObject\ContentContentObject";s:7:"RECORDS";s:53:"TYPO3\CMS\Frontend\ContentObject\RecordsContentObject";s:5:"HMENU";s:62:"TYPO3\CMS\Frontend\ContentObject\HierarchicalMenuContentObject";s:13:"LOAD_REGISTER";s:58:"TYPO3\CMS\Frontend\ContentObject\LoadRegisterContentObject";s:16:"RESTORE_REGISTER";s:61:"TYPO3\CMS\Frontend\ContentObject\RestoreRegisterContentObject";s:13:"FLUIDTEMPLATE";s:59:"TYPO3\CMS\Frontend\ContentObject\FluidTemplateContentObject";s:3:"SVG";s:68:"TYPO3\CMS\Frontend\ContentObject\ScalableVectorGraphicsContentObject";s:9:"EDITPANEL";s:55:"TYPO3\CMS\Frontend\ContentObject\EditPanelContentObject";}s:4:"data";a:75:{s:3:"uid";i:5;s:14:"rowDescription";s:0:"";s:3:"pid";i:7;s:6:"tstamp";i:1660551584;s:6:"crdate";i:1660456410;s:9:"cruser_id";i:1;s:7:"deleted";i:0;s:6:"hidden";i:0;s:9:"starttime";i:0;s:7:"endtime";i:0;s:8:"fe_group";s:0:"";s:7:"sorting";i:32;s:8:"editlock";i:0;s:16:"sys_language_uid";i:0;s:11:"l18n_parent";i:0;s:11:"l10n_source";i:0;s:10:"l10n_state";N;s:10:"t3_origuid";i:0;s:15:"l18n_diffsource";s:60:"{"colPos":"","sys_language_uid":"","tx_container_parent":""}";s:9:"t3ver_oid";i:0;s:10:"t3ver_wsid";i:0;s:11:"t3ver_state";i:0;s:11:"t3ver_stage";i:0;s:5:"CType";s:4:"list";s:6:"header";s:0:"";s:15:"header_position";s:0:"";s:8:"bodytext";N;s:12:"bullets_type";i:0;s:19:"uploads_description";i:0;s:12:"uploads_type";i:0;s:6:"assets";i:0;s:5:"image";i:0;s:10:"imagewidth";i:0;s:11:"imageorient";i:0;s:9:"imagecols";i:2;s:11:"imageborder";i:0;s:5:"media";i:0;s:6:"layout";i:0;s:11:"frame_class";s:7:"default";s:4:"cols";i:0;s:18:"space_before_class";s:0:"";s:17:"space_after_class";s:6:"medium";s:7:"records";N;s:5:"pages";s:0:"";s:6:"colPos";i:102;s:9:"subheader";s:0:"";s:11:"header_link";s:0:"";s:10:"image_zoom";i:0;s:13:"header_layout";s:1:"0";s:9:"list_type";s:11:"forum_login";s:12:"sectionIndex";i:1;s:9:"linkToTop";i:0;s:16:"file_collections";N;s:13:"filelink_size";i:0;s:16:"filelink_sorting";s:0:"";s:26:"filelink_sorting_direction";s:0:"";s:6:"target";s:0:"";s:4:"date";i:0;s:9:"recursive";i:0;s:11:"imageheight";i:0;s:11:"pi_flexform";N;s:19:"accessibility_title";s:0:"";s:20:"accessibility_bypass";i:0;s:25:"accessibility_bypass_text";s:0:"";s:14:"category_field";s:0:"";s:11:"table_class";s:0:"";s:13:"table_caption";N;s:15:"table_delimiter";i:124;s:15:"table_enclosure";i:0;s:21:"table_header_position";i:0;s:11:"table_tfoot";i:0;s:10:"categories";i:0;s:19:"selected_categories";N;s:17:"tx_impexp_origuid";i:0;s:19:"tx_container_parent";i:6;}s:8:" * table";s:10:"tt_content";s:7:"oldData";a:0:{}s:15:"alternativeData";s:0:"";s:10:"parameters";a:0:{}s:13:"currentValKey";s:26:"currentValue_kidjls9dksoje";s:13:"currentRecord";s:12:"tt_content:5";s:18:"currentRecordTotal";i:0;s:19:"currentRecordNumber";i:0;s:18:"parentRecordNumber";i:0;s:12:"parentRecord";a:0:{}s:23:"checkPid_badDoktypeList";i:255;s:15:"lastTypoLinkUrl";s:0:"";s:18:"lastTypoLinkTarget";s:0:"";s:14:"lastTypoLinkLD";a:0:{}s:18:"lastTypoLinkResult";N;s:14:"recordRegister";a:0:{}s:21:" * stdWrapHookObjects";a:0:{}s:28:" * getImgResourceHookObjects";N;s:24:"doConvertToUserIntObject";b:0;s:17:" * userObjectType";i:1;s:16:" * stopRendering";a:0:{}s:24:" * stdWrapRecursionLevel";i:0;s:32:" * defaultFrontendJavaScriptFile";s:60:"EXT:frontend/Resources/Public/JavaScript/default_frontend.js";}";s:4:"type";s:4:"FUNC";}}s:16:"INTincScript_ext";a:5:{s:6:"divKey";s:32:"ac2d854415c7e1c05ca0de07fcc63218";s:20:"additionalHeaderData";a:2:{i:0;s:83:"<link rel="canonical" href="https://lanius-media-typo3.ddev.site/forum/forum-11"/>
+";i:1;s:306:"<link rel="alternate" hreflang="de-de" href="https://lanius-media-typo3.ddev.site/forum/forum-11"/>
+<link rel="alternate" hreflang="en-GB" href="https://lanius-media-typo3.ddev.site/en/forum/forum-11"/>
+<link rel="alternate" hreflang="x-default" href="https://lanius-media-typo3.ddev.site/forum/forum-11"/>";}s:20:"additionalFooterData";a:0:{}s:12:"pageRenderer";s:19960:"O:32:"TYPO3\CMS\Core\Page\PageRenderer":52:{s:21:" * compressJavascript";b:0;s:14:" * compressCss";b:0;s:31:" * removeLineBreaksFromTemplate";b:0;s:24:" * concatenateJavascript";b:0;s:17:" * concatenateCss";b:0;s:27:" * moveJsFromHeaderToFooter";b:0;s:10:" * locales";O:35:"TYPO3\CMS\Core\Localization\Locales":3:{s:12:" * languages";a:57:{s:7:"default";s:7:"English";s:2:"af";s:9:"Afrikaans";s:2:"ar";s:6:"Arabic";s:2:"bs";s:7:"Bosnian";s:2:"bg";s:9:"Bulgarian";s:2:"ca";s:7:"Catalan";s:2:"ch";s:16:"Chinese (Simple)";s:2:"cs";s:5:"Czech";s:2:"cy";s:5:"Welsh";s:2:"da";s:6:"Danish";s:2:"de";s:6:"German";s:2:"el";s:5:"Greek";s:2:"eo";s:9:"Esperanto";s:2:"es";s:7:"Spanish";s:2:"et";s:8:"Estonian";s:2:"eu";s:6:"Basque";s:2:"fa";s:7:"Persian";s:2:"fi";s:7:"Finnish";s:2:"fo";s:7:"Faroese";s:2:"fr";s:6:"French";s:5:"fr_CA";s:15:"French (Canada)";s:2:"gl";s:8:"Galician";s:2:"he";s:6:"Hebrew";s:2:"hi";s:5:"Hindi";s:2:"hr";s:8:"Croatian";s:2:"hu";s:9:"Hungarian";s:2:"is";s:9:"Icelandic";s:2:"it";s:7:"Italian";s:2:"ja";s:8:"Japanese";s:2:"ka";s:8:"Georgian";s:2:"kl";s:11:"Greenlandic";s:2:"km";s:5:"Khmer";s:2:"ko";s:6:"Korean";s:2:"lt";s:10:"Lithuanian";s:2:"lv";s:7:"Latvian";s:2:"mi";s:5:"Maori";s:2:"mk";s:10:"Macedonian";s:2:"ms";s:5:"Malay";s:2:"nl";s:5:"Dutch";s:2:"no";s:9:"Norwegian";s:2:"pl";s:6:"Polish";s:2:"pt";s:10:"Portuguese";s:5:"pt_BR";s:20:"Brazilian Portuguese";s:2:"ro";s:8:"Romanian";s:2:"ru";s:7:"Russian";s:2:"rw";s:11:"Kinyarwanda";s:2:"sk";s:6:"Slovak";s:2:"sl";s:9:"Slovenian";s:2:"sn";s:13:"Shona (Bantu)";s:2:"sq";s:8:"Albanian";s:2:"sr";s:7:"Serbian";s:2:"sv";s:7:"Swedish";s:2:"th";s:4:"Thai";s:2:"tr";s:7:"Turkish";s:2:"uk";s:9:"Ukrainian";s:2:"vi";s:10:"Vietnamese";s:2:"zh";s:14:"Chinese (Trad)";}s:20:" * isoReverseMapping";a:20:{s:2:"bs";s:2:"ba";s:2:"cs";s:2:"cz";s:2:"da";s:2:"dk";s:2:"el";s:2:"gr";s:5:"fr_CA";s:2:"qc";s:2:"gl";s:2:"ga";s:2:"ja";s:2:"jp";s:2:"ka";s:2:"ge";s:2:"kl";s:2:"gl";s:2:"ko";s:2:"kr";s:2:"ms";s:2:"my";s:5:"pt_BR";s:2:"br";s:2:"sl";s:2:"si";s:2:"sv";s:2:"se";s:2:"uk";s:2:"ua";s:2:"vi";s:2:"vn";s:2:"zh";s:2:"hk";s:5:"zh_CN";s:2:"ch";s:5:"zh_HK";s:2:"hk";s:10:"zh_Hans_CN";s:2:"ch";}s:21:" * localeDependencies";a:2:{s:5:"pt_BR";a:1:{i:0;s:2:"pt";}s:5:"fr_CA";a:1:{i:0;s:2:"fr";}}}s:7:" * lang";s:2:"de";s:23:" * languageDependencies";a:1:{i:0;s:2:"de";}s:13:" * compressor";N;s:10:" * jsFiles";a:1:{s:56:"EXT:provider/Resources/Public/JavaScript/Dist/scripts.js";a:13:{s:4:"file";s:56:"EXT:provider/Resources/Public/JavaScript/Dist/scripts.js";s:4:"type";s:0:"";s:7:"section";i:2;s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:5:"async";b:0;s:9:"integrity";s:0:"";s:5:"defer";b:0;s:11:"crossorigin";s:0:"";s:8:"nomodule";b:0;}}s:16:" * jsFooterFiles";a:0:{}s:9:" * jsLibs";a:0:{}s:15:" * jsFooterLibs";a:0:{}s:11:" * cssFiles";a:8:{s:57:"typo3temp/assets/css/7a2ac88989a8f0b3dcb0e5a8f2fa055a.css";a:10:{s:4:"file";s:57:"typo3temp/assets/css/7a2ac88989a8f0b3dcb0e5a8f2fa055a.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:0;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:75:"EXT:faicon/Resources/Public/Libs/fontawesome-free-6.1.1-web/css/all.min.css";a:10:{s:4:"file";s:75:"EXT:faicon/Resources/Public/Libs/fontawesome-free-6.1.1-web/css/all.min.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:49:"EXT:provider/Resources/Public/Css/breakpoints.css";a:10:{s:4:"file";s:49:"EXT:provider/Resources/Public/Css/breakpoints.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:51:"EXT:provider/Resources/Public/Css/bootstrap.min.css";a:10:{s:4:"file";s:51:"EXT:provider/Resources/Public/Css/bootstrap.min.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:43:"EXT:provider/Resources/Public/Css/fonts.css";a:10:{s:4:"file";s:43:"EXT:provider/Resources/Public/Css/fonts.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:48:"EXT:provider/Resources/Public/Css/layout.min.css";a:10:{s:4:"file";s:48:"EXT:provider/Resources/Public/Css/layout.min.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:40:"EXT:forum/Resources/Public/Css/forum.css";a:10:{s:4:"file";s:40:"EXT:forum/Resources/Public/Css/forum.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}s:45:"EXT:forum/Resources/Public/Css/forum_resp.css";a:10:{s:4:"file";s:45:"EXT:forum/Resources/Public/Css/forum_resp.css";s:3:"rel";s:10:"stylesheet";s:5:"media";s:3:"all";s:5:"title";s:0:"";s:8:"compress";b:1;s:10:"forceOnTop";b:0;s:7:"allWrap";s:0:"";s:24:"excludeFromConcatenation";b:0;s:9:"splitChar";s:1:"|";s:6:"inline";b:0;}}s:10:" * cssLibs";a:0:{}s:8:" * title";s:21:"Forum 1.1 TYPO3 Forum";s:10:" * charSet";s:5:"utf-8";s:10:" * favIcon";s:58:"/typo3conf/ext/provider/Resources/Public/Icons/favicon.ico";s:10:" * baseUrl";N;s:14:" * renderXhtml";b:0;s:22:" * xmlPrologAndDocType";s:15:"<!DOCTYPE html>";s:11:" * metaTags";a:0:{}s:17:" * inlineComments";a:2:{i:0;s:45:"	Lanius Media - Agentur für Digitale Medien
+";i:1;s:341:"	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2022 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+";}s:13:" * headerData";a:1:{i:0;s:42:"<!--HD_ac2d854415c7e1c05ca0de07fcc63218-->";}s:13:" * footerData";a:1:{i:0;s:42:"<!--FD_ac2d854415c7e1c05ca0de07fcc63218-->";}s:11:" * titleTag";s:16:"<title>|</title>";s:17:" * metaCharsetTag";s:18:"<meta charset="|">";s:10:" * htmlTag";s:19:"<html lang="de-de">";s:10:" * headTag";s:6:"<head>";s:13:" * baseUrlTag";s:17:"<base href="|" />";s:15:" * iconMimeType";s:32:" type="image/vnd.microsoft.icon"";s:14:" * shortcutTag";s:35:"<link rel="icon" href="%1$s"%2$s />";s:11:" * jsInline";a:0:{}s:17:" * jsFooterInline";a:0:{}s:12:" * cssInline";a:0:{}s:14:" * bodyContent";s:6665:"
+<body>
+
+    <header class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    
+<a href="/">
+    <img srcset="{f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 768)} 768w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 990)} 990w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1200)} 1200w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1440)} 1440w,
+                                        {f:uri.image(src: typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png, maxWidth: 1900)} 1900w" sizes="(min-width: 1200px) 50vw, 100vw" class="image-embed-item img-fluid" alt="Agentur - Logo" loading="lazy" src="/typo3temp/assets/_processed_/e/7/csm_logo-typo3-lanius_f267f02aec.png" width="300" height="100" />
+</a>
+                </div>
+                <div class="col-md-9">
+                    <nav class="main-navigation">
+    <ul>
+        
+            
+            <li class="level1 ">
+                <a href="/" target="" title="Startseite">
+                    Startseite
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/typo3-entwicklung" target="" title="Typo3">
+                    Typo3
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/shopware" target="" title="Shopware">
+                    Shopware
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/magento" target="" title="Magento">
+                    Magento
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 ">
+                <a href="/kontakt" target="" title="Kontakt">
+                    Kontakt
+                </a>
+                
+            </li>
+        
+            
+            <li class="level1 active">
+                <a href="/forum" target="" title="Forum">
+                    Forum
+                </a>
+                
+            </li>
+        
+    </ul>
+</nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <main class="main-content">
+                    
+    
+
+            <div id="c6" class="frame frame-default frame-type-ce_columns2 frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+    
+
+
+
+
+
+
+
+
+
+<div class="ce-col col-md-9">
+    
+        
+    
+
+            <div id="c4" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	<div class="tx-forum">
+		
+ 
+    <div class='tx-forum-forum'>  
+
+    <h2 class="tx_forum_threadList-headline">Forum: Forum 1.1</h2>
+    
+    <div class="tx-forum-buttons">
+        <div class="tx-forum-backlink">
+            <a href="/forum"><i class="fa-solid fa-circle-left"></i> Zurück zur Forenübersicht</a>
+        </div>
+        <div class="tx-forum-newThread">
+            
+                <a href="/forum?tx_forum_forum%5Baction%5D=new&amp;tx_forum_forum%5Bcontroller%5D=Thread&amp;cHash=787365bd7722c97f2f025ae5f5523307">
+                    Neuer Beitrag <i class="fa-solid fa-file-circle-plus"></i>
+                </a>
+            
+        </div>
+    </div>
+    
+    
+     <div class="tx-forum-threads">   
+    
+        <div class="tx-forum-thread">
+            <div class="tx-forum-thread-title">
+                <a href="/forum/forum-11/test-beitrag">Test Beitrag</a>
+            </div>
+            <div class="tx-forum-thread-user">User</div>
+            <div class="tx-forum-thread-datetime">15.08.2022, 09:32:57</div>
+        </div>
+    
+    </div>
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    
+
+    
+
+	</div>
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+
+<div class="ce-col col-md-3">
+    
+        
+    
+
+            <div id="c5" class="frame frame-default frame-type-list frame-layout-0 frame-space-after-medium">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        <!--INT_SCRIPT.a5c7d9abc0ef4cc157e051fccadd7e15-->
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+</div>
+
+
+    
+    
+</div>
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+ 
+                </main>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="footer-navigation">
+    <ul>
+             
+            <li class="footerlink ">
+                <a href="/impressum" target="" title="Impressum">
+                    Impressum
+                </a>
+            </li>
+             
+            <li class="footerlink ">
+                <a href="/datenschutz" target="" title="Datenschutz">
+                    Datenschutz
+                </a>
+            </li>
+             
+            <li class="footerlink ">
+                <a href="/kontakt-1" target="" title="Kontakt">
+                    Kontakt
+                </a>
+            </li>
+        
+    </ul>
+</nav>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="copyright">
+                        <p>Copyright &copy; 2022 by Andre Lanius, alle Rechte vorbehalten!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+";s:15:" * templateFile";s:54:"EXT:frontend/Resources/Private/Templates/MainPage.html";s:16:" * requireJsPath";s:45:"EXT:core/Resources/Public/JavaScript/Contrib/";s:15:" * addRequireJs";b:0;s:18:" * requireJsConfig";a:0:{}s:28:" * additionalRequireJsConfig";a:0:{}s:35:" * internalRequireJsPathModuleNames";a:0:{}s:24:" * publicRequireJsConfig";a:0:{}s:23:" * inlineLanguageLabels";a:0:{}s:27:" * inlineLanguageLabelFiles";a:0:{}s:17:" * inlineSettings";a:0:{}s:23:" * inlineJavascriptWrap";a:2:{i:0;s:23:"<script>
+/*<![CDATA[*/
+";i:1;s:18:"/*]]>*/
+</script>
+";}s:16:" * inlineCssWrap";a:2:{i:0;s:28:"<style>
+/*<![CDATA[*/
+<!-- 
+";i:1;s:21:"-->
+/*]]>*/
+</style>
+";}s:14:" * endingSlash";s:0:"";s:18:" * metaTagRegistry";O:45:"TYPO3\CMS\Core\MetaTag\MetaTagManagerRegistry":3:{s:11:" * registry";a:5:{s:7:"generic";a:1:{s:6:"module";s:44:"TYPO3\CMS\Core\MetaTag\GenericMetaTagManager";}s:5:"html5";a:3:{s:6:"module";s:42:"TYPO3\CMS\Core\MetaTag\Html5MetaTagManager";s:6:"before";a:1:{i:0;s:7:"generic";}s:5:"after";a:0:{}}s:4:"edge";a:3:{s:6:"module";s:41:"TYPO3\CMS\Core\MetaTag\EdgeMetaTagManager";s:6:"before";a:1:{i:0;s:7:"generic";}s:5:"after";a:0:{}}s:9:"opengraph";a:3:{s:6:"module";s:45:"TYPO3\CMS\Seo\MetaTag\OpenGraphMetaTagManager";s:6:"before";a:1:{i:0;s:7:"generic";}s:5:"after";a:0:{}}s:7:"twitter";a:3:{s:6:"module";s:47:"TYPO3\CMS\Seo\MetaTag\TwitterCardMetaTagManager";s:6:"before";a:1:{i:0;s:7:"generic";}s:5:"after";a:0:{}}}s:56:" TYPO3\CMS\Core\MetaTag\MetaTagManagerRegistry instances";a:5:{s:41:"TYPO3\CMS\Core\MetaTag\EdgeMetaTagManager";O:41:"TYPO3\CMS\Core\MetaTag\EdgeMetaTagManager":6:{s:20:" * handledProperties";a:1:{s:15:"x-ua-compatible";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}}s:23:" * defaultNameAttribute";s:4:"name";s:26:" * defaultContentAttribute";s:7:"content";s:34:" * defaultAllowMultipleOccurrences";b:0;s:23:" * subPropertySeparator";s:1:":";s:13:" * properties";a:1:{s:15:"x-ua-compatible";a:1:{i:0;a:2:{s:7:"content";s:7:"IE=edge";s:13:"subProperties";a:0:{}}}}}s:42:"TYPO3\CMS\Core\MetaTag\Html5MetaTagManager";O:42:"TYPO3\CMS\Core\MetaTag\Html5MetaTagManager":6:{s:20:" * handledProperties";a:17:{s:16:"application-name";a:0:{}s:6:"author";a:0:{}s:11:"description";a:0:{}s:9:"generator";a:0:{}s:8:"keywords";a:0:{}s:8:"referrer";a:0:{}s:16:"content-language";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:12:"content-type";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:13:"default-style";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:7:"refresh";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:10:"set-cookie";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:23:"content-security-policy";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:8:"viewport";a:0:{}s:6:"robots";a:0:{}s:7:"expires";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:13:"cache-control";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}s:6:"pragma";a:1:{s:13:"nameAttribute";s:10:"http-equiv";}}s:23:" * defaultNameAttribute";s:4:"name";s:26:" * defaultContentAttribute";s:7:"content";s:34:" * defaultAllowMultipleOccurrences";b:0;s:23:" * subPropertySeparator";s:1:":";s:13:" * properties";a:3:{s:9:"generator";a:1:{i:0;a:2:{s:7:"content";s:9:"TYPO3 CMS";s:13:"subProperties";a:0:{}}}s:8:"viewport";a:1:{i:0;a:2:{s:7:"content";s:35:"width=device-width, initial-scale=1";s:13:"subProperties";a:0:{}}}s:6:"robots";a:1:{i:0;a:2:{s:7:"content";s:12:"index,follow";s:13:"subProperties";a:0:{}}}}}s:45:"TYPO3\CMS\Seo\MetaTag\OpenGraphMetaTagManager";O:45:"TYPO3\CMS\Seo\MetaTag\OpenGraphMetaTagManager":6:{s:23:" * defaultNameAttribute";s:8:"property";s:20:" * handledProperties";a:10:{s:7:"og:type";a:0:{}s:8:"og:title";a:0:{}s:14:"og:description";a:0:{}s:12:"og:site_name";a:0:{}s:6:"og:url";a:0:{}s:8:"og:audio";a:0:{}s:8:"og:video";a:0:{}s:13:"og:determiner";a:0:{}s:9:"og:locale";a:1:{s:20:"allowedSubProperties";a:1:{s:9:"alternate";a:1:{s:24:"allowMultipleOccurrences";b:1;}}}s:8:"og:image";a:2:{s:24:"allowMultipleOccurrences";b:1;s:20:"allowedSubProperties";a:6:{s:3:"url";a:0:{}s:10:"secure_url";a:0:{}s:4:"type";a:0:{}s:5:"width";a:0:{}s:6:"height";a:0:{}s:3:"alt";a:0:{}}}}s:26:" * defaultContentAttribute";s:7:"content";s:34:" * defaultAllowMultipleOccurrences";b:0;s:23:" * subPropertySeparator";s:1:":";s:13:" * properties";a:1:{s:8:"og:title";a:1:{i:0;a:2:{s:7:"content";s:5:"Forum";s:13:"subProperties";a:0:{}}}}}s:47:"TYPO3\CMS\Seo\MetaTag\TwitterCardMetaTagManager";O:47:"TYPO3\CMS\Seo\MetaTag\TwitterCardMetaTagManager":6:{s:20:" * handledProperties";a:8:{s:12:"twitter:card";a:0:{}s:12:"twitter:site";a:1:{s:20:"allowedSubProperties";a:1:{s:2:"id";a:0:{}}}s:15:"twitter:creator";a:1:{s:20:"allowedSubProperties";a:1:{s:2:"id";a:0:{}}}s:19:"twitter:description";a:0:{}s:13:"twitter:title";a:0:{}s:13:"twitter:image";a:1:{s:20:"allowedSubProperties";a:1:{s:3:"alt";a:0:{}}}s:14:"twitter:player";a:1:{s:20:"allowedSubProperties";a:3:{s:5:"width";a:0:{}s:6:"height";a:0:{}s:6:"stream";a:0:{}}}s:11:"twitter:app";a:1:{s:20:"allowedSubProperties";a:9:{s:11:"name:iphone";a:0:{}s:9:"id:iphone";a:0:{}s:10:"url:iphone";a:0:{}s:9:"name:ipad";a:0:{}s:7:"id:ipad";a:0:{}s:8:"url:ipad";a:0:{}s:15:"name:googleplay";a:0:{}s:13:"id:googleplay";a:0:{}s:14:"url:googleplay";a:0:{}}}}s:23:" * defaultNameAttribute";s:4:"name";s:26:" * defaultContentAttribute";s:7:"content";s:34:" * defaultAllowMultipleOccurrences";b:0;s:23:" * subPropertySeparator";s:1:":";s:13:" * properties";a:1:{s:12:"twitter:card";a:1:{i:0;a:2:{s:7:"content";s:7:"summary";s:13:"subProperties";a:0:{}}}}}s:44:"TYPO3\CMS\Core\MetaTag\GenericMetaTagManager";O:44:"TYPO3\CMS\Core\MetaTag\GenericMetaTagManager":2:{s:23:" * subPropertySeparator";s:1:":";s:13:" * properties";a:1:{s:28:"apple-mobile-web-app-capable";a:1:{s:4:"name";a:1:{i:0;a:2:{s:7:"content";s:2:"no";s:13:"subProperties";a:0:{}}}}}}}s:55:" TYPO3\CMS\Core\MetaTag\MetaTagManagerRegistry managers";a:5:{s:4:"edge";r:272;s:5:"html5";r:285;s:9:"opengraph";r:330;s:7:"twitter";r:362;s:7:"generic";r:401;}}s:21:" * javaScriptRenderer";O:38:"TYPO3\CMS\Core\Page\JavaScriptRenderer":3:{s:13:" * handlerUri";s:77:"typo3/sysext/core/Resources/Public/JavaScript/JavaScriptHandler.js?1660137855";s:8:" * items";O:35:"TYPO3\CMS\Core\Page\JavaScriptItems":2:{s:20:" * globalAssignments";a:0:{}s:31:" * javaScriptModuleInstructions";a:0:{}}s:12:" * requireJS";N;}}";s:14:"assetCollector";s:518:"O:34:"TYPO3\CMS\Core\Page\AssetCollector":5:{s:14:" * javaScripts";a:0:{}s:20:" * inlineJavaScripts";a:0:{}s:14:" * styleSheets";a:0:{}s:20:" * inlineStyleSheets";a:0:{}s:8:" * media";a:1:{s:70:"/typo3temp/assets/_processed_/e/7/csm_logo-typo3-lanius_f267f02aec.png";a:6:{i:0;i:300;i:1;i:100;i:2;s:3:"png";i:3;s:70:"/typo3temp/assets/_processed_/e/7/csm_logo-typo3-lanius_f267f02aec.png";s:8:"origFile";s:69:"/typo3conf/ext/provider/Resources/Public/Images/logo-typo3-lanius.png";s:14:"origFile_mtime";i:1660289806;}}}";}}s:7:"expires";i:1660665471;s:6:"tstamp";i:1660579071;s:13:"pageTitleInfo";a:2:{s:5:"title";s:5:"Forum";s:15:"indexedDocTitle";s:21:"Forum 1.1 TYPO3 Forum";}s:9:"cacheTags";a:1:{i:0;s:8:"pageId_7";}}1660665471    pageId_741123     

@@ -1,0 +1,50 @@
+<f:layout name="Default" />
+
+<f:section name="Header">
+    <header class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <f:render partial="Header/Logo" />
+                </div>
+                <div class="col-md-9">
+                    <f:render partial="Header/Mainnavigation" arguments="{_all}" />
+                </div>
+            </div>
+        </div>
+    </header>
+</f:section>
+
+<f:section name="Main">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <main class="main-content">
+                    <f:cObject typoscriptObjectPath="lib.dynamicContent" data="{colPos: '0'}" /> 
+                </main>
+            </div>
+        </div>
+    </div>
+</f:section>
+
+
+<f:section name="Footer">
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <f:render partial="Footer/Footernavigation" arguments="{_all}" />
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="copyright">
+                        <p>Copyright &copy; <f:format.date format="Y">now</f:format.date> by Andre Lanius, alle Rechte vorbehalten!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</f:section>

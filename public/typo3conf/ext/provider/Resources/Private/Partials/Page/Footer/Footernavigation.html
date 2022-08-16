@@ -1,0 +1,11 @@
+<nav class="footer-navigation">
+    <ul>
+        <f:for each="{footernavigation}" as="footernavigationItem">     
+            <li class="footerlink {f:if(condition: footernavigationItem.current, then:'active')}">
+                <a href="{footernavigationItem.link}" target="{footernavigationItem.target}" title="{footernavigationItem.title}">
+                    {footernavigationItem.title}
+                </a>
+            </li>
+        </f:for>
+    </ul>
+</nav>

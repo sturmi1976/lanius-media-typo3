@@ -1,0 +1,37 @@
+base: 'https://lanius-media-typo3.ddev.site/'
+languages:
+  -
+    title: Deutsch
+    enabled: true
+    languageId: 0
+    base: /
+    typo3Language: de
+    locale: de_DE.utf8
+    iso-639-1: de
+    navigationTitle: Deutsch
+    hreflang: de-de
+    direction: ''
+    flag: de
+    websiteTitle: ''
+  -
+    title: English
+    enabled: true
+    base: /en/
+    typo3Language: default
+    locale: en_GB.utf8
+    iso-639-1: en
+    websiteTitle: ''
+    navigationTitle: English
+    hreflang: en-GB
+    direction: ''
+    fallbackType: strict
+    fallbacks: ''
+    flag: gb
+    languageId: 1
+rootPageId: 1
+websiteTitle: ''
+
+
+imports:
+    - { resource: "EXT:forum/Configuration/Routes/forum.yaml" }
+
