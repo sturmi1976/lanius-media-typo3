@@ -15,6 +15,11 @@
 #####################
 @import 'EXT:provider/Configuration/TypoScript/Frontend/header.typoscript'
 
+#####################
+#### Domain File ####
+#####################
+@import 'EXT:provider/Configuration/TypoScript/Frontend/domain.typoscript'
+
 
 ##############
 #### PAGE ####
@@ -83,6 +88,19 @@ page {
                 levels = 1
                 includeSpacer = 1
                 as = footernavigation
+            }
+            40 = TYPO3\CMS\Frontend\DataProcessing\MenuProcessor
+            40 {
+                as = breadcrumbMenu
+                special = rootline
+            }
+            45 = AL\Forum\DataProcessing\ExtensionRecordToMenuProcessor
+            45 {
+                addToMenus = breadcrumbMenu
+            }
+            50 = AL\Forum\DataProcessing\ExtensionRecordToMenuProcessor2
+            50 {
+                addToMenus = breadcrumbMenu
             }
         }
     }

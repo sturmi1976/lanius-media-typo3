@@ -1,0 +1,15 @@
+
+<div class="breadcrum-navigation">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <f:for each="{breadcrumbMenu}" as="item" iteration="iterator">
+            <li class="breadcrumb-item " itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a href="{item.link}" title="{item.title}" itemprop="item" itemid="{f:cObject(typoscriptObjectPath: 'lib.currentDomain')}{item.link}" itemtype="https://schema.org/WebPage">
+                    <span itemprop="name">{item.title}</span>
+                </a>
+                <meta itemprop="position" content="{iterator.cycle}" />
+            </li>
+        </f:for>
+        </ol>
+    </nav>
+</div>

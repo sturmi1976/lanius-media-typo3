@@ -29,9 +29,13 @@ languages:
     flag: gb
     languageId: 1
 rootPageId: 1
+routes:
+  -
+    route: sitemap.xml
+    type: uri
+    source: 't3://page?uid=1&type=1533906435'
 websiteTitle: ''
 
-
 imports:
-    - { resource: "EXT:forum/Configuration/Routes/forum.yaml" }
-
+  -
+    resource: 'EXT:forum/Configuration/Routes/forum.yaml'

@@ -4,6 +4,12 @@ return array (
   array (
     'routes' => 
     array (
+      0 => 
+      array (
+        'route' => 'sitemap.xml',
+        'type' => 'uri',
+        'source' => 't3://page?uid=1&type=1533906435',
+      ),
     ),
     'routeEnhancers' => 
     array (

@@ -96,6 +96,11 @@ return [
         ],
     ],
     'MAIL' => [
+        'templateRootPaths' => [
+            'EXT:core/Resources/Private/Templates/Email/',
+            'EXT:backend/Resources/Private/Templates/Email/',
+            'EXT:forum/Resources/Private/Templates/Email/',
+        ],
         'transport' => 'sendmail',
         'transport_sendmail_command' => '/usr/local/bin/mailhog sendmail test@example.org --smtp-addr 127.0.0.1:1025',
         'transport_smtp_encrypt' => '',

@@ -12,6 +12,8 @@ return array(
     'AL\\Forum\\Controller\\RegisterController' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Controller/RegisterController.php',
     'AL\\Forum\\Controller\\ThreadController' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Controller/ThreadController.php',
     'AL\\Forum\\Controller\\UserController' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Controller/UserController.php',
+    'AL\\Forum\\DataProcessing\\ExtensionRecordToMenuProcessor' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/DataProcessing/ExtensionRecordToMenuProcessor.php',
+    'AL\\Forum\\DataProcessing\\ExtensionRecordToMenuProcessor2' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/DataProcessing/ExtensionRecordToMenuProcessor2.php',
     'AL\\Forum\\Domain\\Model\\Category' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Model/Category.php',
     'AL\\Forum\\Domain\\Model\\FileReference' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Model/FileReference.php',
     'AL\\Forum\\Domain\\Model\\Forum' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Model/Forum.php',
