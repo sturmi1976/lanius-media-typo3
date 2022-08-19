@@ -10,5 +10,6 @@ return array(
     'B13\\Container\\' => array($typo3InstallDir . 'typo3conf/ext/container/Classes'),
     'Buepro\\ContainerElements\\' => array($typo3InstallDir . 'typo3conf/ext/container_elements/Classes'),
     'Buepro\\Pvh\\' => array($typo3InstallDir . 'typo3conf/ext/pvh/Classes'),
+    'SFC\\Staticfilecache\\' => array($typo3InstallDir . 'typo3conf/ext/staticfilecache/Classes'),
     'WapplerSystems\\WsScss\\' => array($typo3InstallDir . 'typo3conf/ext/ws_scss/Classes'),
 );

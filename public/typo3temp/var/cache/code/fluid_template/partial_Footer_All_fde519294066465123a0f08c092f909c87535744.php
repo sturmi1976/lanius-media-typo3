@@ -28,6 +28,10 @@ $renderingContext->getViewHelperResolver()->addNamespaces(array (
   array (
     0 => 'Buepro\\Pvh\\ViewHelpers',
   ),
+  'sfc' => 
+  array (
+    0 => 'SFC\\Staticfilecache\\ViewHelpers',
+  ),
 ));
 }
 

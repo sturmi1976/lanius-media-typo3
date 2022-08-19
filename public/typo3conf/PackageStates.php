@@ -122,6 +122,9 @@ return [
         'provider' => [
             'packagePath' => 'typo3conf/ext/provider/',
         ],
+        'staticfilecache' => [
+            'packagePath' => 'typo3conf/ext/staticfilecache/',
+        ],
         'ws_scss' => [
             'packagePath' => 'typo3conf/ext/ws_scss/',
         ],
