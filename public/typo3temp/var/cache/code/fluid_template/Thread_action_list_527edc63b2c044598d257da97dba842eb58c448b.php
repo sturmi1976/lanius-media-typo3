@@ -1,6 +1,6 @@
 <?php
 
-class Thread_action_list_d65fa599ea8f5c028ddb258f5e8b30f356f8eabc extends \TYPO3Fluid\Fluid\Core\Compiler\AbstractCompiledTemplate {
+class Thread_action_list_527edc63b2c044598d257da97dba842eb58c448b extends \TYPO3Fluid\Fluid\Core\Compiler\AbstractCompiledTemplate {
 
 public function getLayoutName(\TYPO3Fluid\Fluid\Core\Rendering\RenderingContextInterface $renderingContext) {
 $self = $this;
@@ -795,7 +795,7 @@ $output23 .= '
             </div>
 
             <div class="container">
-                <div class="row">
+                <div class="row"> 
                     <div class="col-md-4">';
 // Rendering ViewHelper TYPO3\CMS\Fluid\ViewHelpers\TranslateViewHelper
 $renderChildrenClosure90 = function() use ($renderingContext, $self) {
@@ -1757,7 +1757,7 @@ $output139 .= '
             </div>
 
             <div class="container">
-                <div class="row">
+                <div class="row"> 
                     <div class="col-md-4">';
 // Rendering ViewHelper TYPO3\CMS\Fluid\ViewHelpers\TranslateViewHelper
 $renderChildrenClosure206 = function() use ($renderingContext, $self) {

@@ -1718,7 +1718,8 @@ defined('TYPO3') || die();
         ],
         // non-cacheable actions
         [
-            \AL\Forum\Controller\ForumController::class => 'klick',
+            \AL\Forum\Controller\ForumController::class => 'list, show', 
+            \AL\Forum\Controller\ThreadController::class => 'klick, list, show',
         ]
     );
     

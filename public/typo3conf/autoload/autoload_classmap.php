@@ -28,6 +28,7 @@ return array(
     'AL\\Forum\\Domain\\Repository\\ThreadRepository' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Repository/ThreadRepository.php',
     'AL\\Forum\\Domain\\Repository\\TopicRepository' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Repository/TopicRepository.php',
     'AL\\Forum\\Domain\\Repository\\UserRepository' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Domain/Repository/UserRepository.php',
+    'AL\\Forum\\Functions\\Bbcode\\bbcode' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Functions/Bbcode.php',
     'AL\\Forum\\Functions\\TestFunctions' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Functions/TestFunctions.php',
     'AL\\Forum\\Seo\\ForumTitleProvider' => $typo3InstallDir . 'typo3conf/ext/forum/Classes/Seo/ForumTitleProvider.php',
     'B13\\Container\\Backend\\Grid\\ContainerGridColumn' => $typo3InstallDir . 'typo3conf/ext/container/Classes/Backend/Grid/ContainerGridColumn.php',
